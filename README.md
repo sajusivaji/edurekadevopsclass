@@ -1,0 +1,2 @@
+# edurekadevopsclass
+a sample repository
